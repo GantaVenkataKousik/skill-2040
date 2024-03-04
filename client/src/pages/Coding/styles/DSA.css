@@ -1,0 +1,93 @@
+.coding-scores{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    
+
+}
+
+.coding-scores-leetcode .leetcode{
+    border-radius: 0.5rem;
+    font-size: 2rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.coding-scores-leetcode h2{
+    text-align: center;
+    font-size: 3rem;
+    margin: 1rem;
+    
+    font-size: 2.5rem;
+}
+
+.coding-scores-leetcode img {
+    height: 35vh;
+    width: 20vw;
+    border-radius: 1rem;
+}
+.coding-scores-leetcode .leetcode{
+    display: grid;
+    grid-template-columns: 50% 50%;   
+    font-size: 1.4rem;
+}
+
+
+.coding-scores-leetcode .data{
+    font-weight: 4rem;
+}
+
+.coding-scores-leetcode .data{
+    font-size: 1.8rem;
+}
+
+.coding-scores-leetcode .h{
+    font-size: 1.6rem;
+}
+
+.coding-scores-leetcode .overall .num{
+    font-size:2rem;
+}
+.coding-scores-gfg img{
+    height: 35vh;
+    width: 20vw;
+    border-radius: 1rem;
+}
+.coding-scores-gfg .leetcode {
+    display:flex;
+    align-items: center;
+}
+.coding-scores-gfg .stats-info{
+    margin-left: 2rem;
+}
+.coding-scores-gfg h2{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.coding-scores-gfg .stats-info{
+    font-size: 1.45rem;
+}
+.coding-scores-gfg .data{
+    font-size: 1.65rem;
+    font-weight: 4rem;
+}
+.coding-scores-leetcode{
+    margin-bottom: 5vh;
+}
+
+
+.coding-scores-gfg h2{
+    margin-bottom: 5vh;
+}
+
+.coding-scores-gfg .overall{
+    margin-top: 0.7vh;
+}
+
+.coding-scores-gfg .levels{
+    margin-top: 2vh;
+}
+

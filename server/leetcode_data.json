@@ -1,0 +1,39 @@
+{
+    "name": "Ganta Venkata Kousik",
+    "overall_rank": "111,201",
+    "total_solved": "450",
+    "solved_problems": [
+        "183",
+        "227",
+        "40"
+    ],
+    "total_problems": [
+        "776",
+        "1608",
+        "680"
+    ],
+    "beats": [
+        "97.5%",
+        "95.4%",
+        "89.3%"
+    ],
+    "user_image_url": "https://assets.leetcode.com/users/venkatakousikcse01/avatar_1709107516.png",
+    "social_media_profiles": [
+        {
+            "profile_name": "India",
+            "profile_link": null
+        },
+        {
+            "profile_name": "Vishnu Institute of Technology",
+            "profile_link": null
+        },
+        {
+            "profile_name": "GantaVenkataKousik",
+            "profile_link": null
+        },
+        {
+            "profile_name": "venkatakousik",
+            "profile_link": null
+        }
+    ]
+}
